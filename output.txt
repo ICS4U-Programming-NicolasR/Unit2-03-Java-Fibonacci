@@ -1,0 +1,4 @@
+0 digit in the Fibonacci sequence is 0
+1 digit in the Fibonacci sequence is 1
+5 digit in the Fibonacci sequence is 5
+8 digit in the Fibonacci sequence is 21
